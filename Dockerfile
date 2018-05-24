@@ -3,7 +3,7 @@ run mkdir /opt/sample
 copy sample/target/course-api-0.0.1-SNAPSHOT.jar /opt/sample/course-api-0.0.1-SNAPSHOT.jar
 workdir /opt/sample
 entrypoint java -jar course-api-0.0.1-SNAPSHOT.jar
-###### Chages done in master branch..........
+###### Chages done in master branch..........>>>>
 
 
 
