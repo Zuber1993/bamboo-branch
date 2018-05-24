@@ -13,6 +13,6 @@ public class ControllerDemo {
 	
 	@RequestMapping("/")
    public String greetMessage(){
-	   return "WELCOME TO prod Branch";
+	   return "WELCOME TO Prod Branch";
    }
 }
